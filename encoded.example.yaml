@@ -1,0 +1,5 @@
+kind: Secret
+apiVersion: 1
+data:
+  FLASK_FLASK_APP: TkFNRQ==
+  LOG_LEVEL: SU5GTw==

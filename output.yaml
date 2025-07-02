@@ -1,0 +1,5 @@
+apiVersion: 1
+data:
+  FLASK_FLASK_APP: NAME
+  LOG_LEVEL: INFO
+kind: Secret
